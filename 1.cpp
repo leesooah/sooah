@@ -12,5 +12,6 @@ void main()
 	avg = (g1+g2+g3+g4+g5) / 5;
 	cout << "AVG : " << avg << endl;
 	cout << "who am i?" << endl;
+	cout << "do you know me?" << endl;
 
 }
